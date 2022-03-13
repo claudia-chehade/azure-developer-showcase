@@ -4,6 +4,8 @@ This project is a Python web application built using Flask. The user can log in 
 
 ## Log In Credentials for FlaskWebProject
 
+- Sample project: https://cd1756application.azurewebsites.net
+
 - Username: admin
 - Password: pass
 
